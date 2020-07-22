@@ -1,16 +1,14 @@
-# recipe_app
+# Recipe-App
 
-A new Flutter project.
+This is a community based app for sharing and editing your recipes and also viewing other's recipes.
+It used Firebase as RTDB (Real Time Database) for its backend.
 
-## Getting Started
+##For Developers
 
-This project is a starting point for a Flutter application.
+**Follow the steps given below:**
 
-A few resources to get you started if this is your first Flutter project:
+* Clone the git repo : 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
